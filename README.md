@@ -5,6 +5,10 @@
 
 **Server:** Node JS, Express JS
 
+**Server:** Flask, Python
+
+**Modele:** HateSpeech(Hate or not)
+
 **Database:** Mongo DB
   
 ## Run Locally
@@ -29,7 +33,7 @@ Start the server node.js
 Start the server flask
 
 ```bash
-  python server_python.p
+  python server_python.py
 ```
 Start the Client
 
